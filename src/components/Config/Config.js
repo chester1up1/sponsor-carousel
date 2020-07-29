@@ -1,9 +1,5 @@
 import React, { useState, useEffect } from "react";
 import { connect } from "react-redux";
-import tw1 from "../../img/tw1.jpg";
-import tw2 from "../../img/tw2.jpg";
-import tw3 from "../../img/tw3.jpg";
-import tw4 from "../../img/tw4.jpg";
 import { Input, Button } from "reactstrap";
 import Screen from "./components/Screen";
 import { postSettings, GetPhotos } from "./actions";
