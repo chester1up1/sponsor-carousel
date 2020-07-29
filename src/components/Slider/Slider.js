@@ -1,7 +1,4 @@
 import React, { useEffect, useState } from "react";
-import mc from "../../img/mc.png";
-import hyper from "../../img/hyper.png";
-import puma from "../../img/puma.png";
 import "./style.scss";
 import Slide from "./components/Slide";
 import { connect } from "react-redux";
